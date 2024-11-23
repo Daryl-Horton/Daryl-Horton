@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Daryl</h1>
-<h3 align="center">A creative technical writer from South Carolina</h3>
+<h3 align="center">A Creative Technical Writer from South Carolina</h3>
 
 With over 14 years of experience spanning technical writing, creative writing, publishing, and editing, writing isn't just my profession—it's my passion. My experience includes:
 
 - Designing and documenting operational processes.
-- Creating Standard Operating Procedures, User Guides, and Diagrams.
+- Creating standard operating procedures, user guides, and diagrams.
 - Developing documentation management systems using MS SharePoint.
-- Creative writing and desktop publishing using Scribus, Sigil, Calibre, Inkscape, Gimp, Krita, and many other open source applications.
+- Engaging in creative writing and desktop publishing using Scribus, Sigil, Calibre, Inkscape, GIMP, Krita, and many other open-source applications.
 - Implementing information and knowledge management strategies.
 
-I love learning and I am currently learning how to leverage python programming for creative and techincal writing projects. You can view examples of my creative work at www.daryl-horton.com.
-##### More of my Work Around the Web
+I'm a life-long learner. I am currently exploring how to leverage python programming for creative and techincal writing projects. You can view examples of my creative work at www.daryl-horton.com.
+##### More of my work around the web
 https://bio.site/DarylHorton
 
 >I look forward to collaborating on projects in need of technical writing and python support.
