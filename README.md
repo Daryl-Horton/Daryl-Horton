@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daryl</h1>
 <h3 align="center">A creative technical writer from South Carolina</h3>
 
-With over 14 years of experience writing long and short form operational documents, you could say I love writing. My experience includes:
+With over 14 years of experience spanning technical writing, creative writing, publishing, and editing, writing isn't just my profession—it's my passion. My experience includes:
 
 - Designing and documenting operational processes.
 - Creating Standard Operating Procedures, User Guides, and Diagrams.
