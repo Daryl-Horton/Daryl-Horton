@@ -20,7 +20,7 @@ Daryl-Horton/Daryl-Horton is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">A Few Languages and Tools of Interest:</h3>
 <p align="left">
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
     <img
